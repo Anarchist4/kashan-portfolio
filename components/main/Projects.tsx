@@ -23,7 +23,7 @@ const Projects = () => {
           This project Detects and recognize license plates from images using OpenCV and EasyOCR libraries."
         />
         <ProjectCard
-          src="/tableau portfolio.png"
+          src="/tableau portfolio.PNG"
           title="Project 3: Ecommerce Dashboard"
           description="Developed an interactive Tableau dashboard for an ecommerce platform,
           providing real-time insights on sales performance, customer behavior, and product analytics, enhancing data-driven decision-making for the business."
