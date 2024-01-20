@@ -17,7 +17,7 @@ const Projects = () => {
           description="Diverse Image Classification: Developed a deep learning model to classify 100k images of sandals, shoes, and boots using transfer learning."
         />
         <ProjectCard
-          src="/numberplate.png"
+          src="/numberplate.PNG"
           title="Project 2: License Plate detection"
           description="License Plate Detection using OpenCV and EasyOCR.  
           This project Detects and recognize license plates from images using OpenCV and EasyOCR libraries."
