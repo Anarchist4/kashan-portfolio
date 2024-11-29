@@ -28,6 +28,11 @@ const Projects = () => {
           description="Developed an interactive Tableau dashboard for an ecommerce platform,
           providing real-time insights on sales performance, customer behavior, and product analytics, enhancing data-driven decision-making for the business."
         />
+        <ProjectCard
+        src="/chatbot_pic1.PNG"
+        title="Project 4: Medical GenAi Chatbot"
+        description="Designed and deployed a scalable AI-powered medical chatbot using Python, LangChain, Flask, GPT, and Pinecone, capable of handling ~15,000 patient queries per week"
+        />
       </div>
     </div>
   );
